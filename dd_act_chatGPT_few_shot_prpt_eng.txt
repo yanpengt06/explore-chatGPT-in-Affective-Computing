@@ -1,0 +1,437 @@
+#1
+A: Hi, Mary, it¡¯s been a long time. &inform
+B: Hello, my old friend. Long time no see. How are you doing? &question
+A: Well, I¡¯m doing okay. And how about yourself? &question
+B: Not so well. To be honest with you, I broke up with Tom. &inform
+A: Oh. I¡¯m sorry to hear that. What happened? &question
+#2
+A:When can we expect you for dinner ? Can you come tonight ?&question
+B:Not tonight . I promised to go to a concert with my sister .&inform
+A:Well ... How about Friday then ?&question
+B:That sounds fine .&commissive
+A:Good . Shall we say seven o'clock ?&question
+B:I'll be there . You're still a fabulous cook , aren't you ?&inform
+A:That'll be for you to decide . I've got a new dish that I want to try out on you .&inform
+B:I'm ready . I'll look forward to it all Friday !&commissive
+#3
+A: Would you come to spend the weekend with us? &question
+B: Oh, I¡¯m afraid I can¡¯t. I¡¯ve had a date already. &inform
+A: That¡¯s too bad. &inform
+B: Maybe some other time. &commissive
+#4
+A: Informing and requesting information. "Excuse me , I'm looking for your casual short-sleeved shirts . Can you tell me where those are?" &question
+B: Informing and requesting information. "Right over here , sir . What-size do you wear ?" &question
+A: Informing and expressing gratitude. "Medium ." &inform
+B: Informing. "These here are all mediums." &inform
+A: Expressing gratitude and making a purchase decision. "Thank you . I think I'll take this one , and these pants as well . They're presents for a friend." &inform
+B: Offering a service. "Shall I gift-wrap them for you , sir ?" &directive
+A: Accepting a service. "Yes , please." &commissive
+#5
+
+#6
+
+#7
+A:Hello , can I speak to Mark Wyatt , please ? &directive
+B:I am sorry . I can¡¯t hear your very clearly . Could you say that again , please ? &directive
+A:Does Mark Wyatt work there ? &question
+B:Mark Wyatt ? I am sorry . The line is terrible. Could you spell that for me , please ? &directive
+A:W-Y-A-T-T , Mark Wyatt . &inform
+B:W-Y-A-T-T , Got it. I haven¡¯t heard of the name. Could you hold on the line when I check. &directive
+A:No problem. &commissive
+#8
+
+#9
+
+#10
+
+#11
+A: Anything else , sir ? &question
+B: That's all for now . How much do I owe you ? &question
+A: That'll be fifty-five dollars and twenty cents . &inform
+B: Can't you make it a little cheaper ? &directive
+A: Oh , no , sir . We already gave you a discount on each item . &commissive
+B: OK . I understand . Thank you . &inform
+#12
+
+
+A:Let's have some lunch ; do you know of a great restaurant somewhere ? &directive
+B:Yes , I'm hungry . What types of food sound good ? &question
+A:Maybe just a quick sandwich , salad , or something . &inform
+B:I have a great idea of where you might like to go . &inform
+A:Can we walk there ? &question
+B:It's on the second floor . May I join you ? &directive
+A:Of course ! Let's go . &commissive
+B:Let's hurry . I'm starving ! &directive
+#13
+A:What stresses you out the most ? &question
+B:Probably my parents . &inform
+A:How so ? &question
+B:Well , during school , they wanted good grades . Then after I got a job , they wanted me to get a better job . And finally , they want me to get married . &inform
+A:You have to deal with a lot of pressure from your parents . &inform
+B:Your parents are not like that ? &question
+A:Ever since I brought home some bad grades in elementary school , they never expected much . &inform
+B:You're lucky . &inform
+A:What do you do to deal with the stress ? &question
+B:Not much I can do . It's always there . I sometimes go out with some friends and drink , but that's only a temporary solution . The stress always returns in the morning . &inform
+A:That sucks . You wanna go grab a beer ? &directive
+B:Sure . Sounds great . Let's go . &commissive
+#14
+A: You don't look so good. &inform
+B: I have a major stomachache. &inform
+A: Did you eat something strange? &question
+B: I had spaghetti with clam sauce for lunch. &inform
+A: Maybe you have food poisoning. &inform
+B: Yes, that could have been it, but I haven't been feeling that great for the past few days. &inform
+A: Are you under a lot of stress? &question
+B: Not really. Things have been going OK. &inform
+A: Maybe you have a touch of the flu. &inform
+B: I think that I might be getting the flu. &inform
+#15
+
+
+A:What forms should I fill out to collect unemployment ? &question
+B:You need to fill out a special form to apply for unemployment benefits . &inform
+A:Where do I get the application form for unemployment benefits ? &question
+B:You can call the Employment Development Office and request a form . &inform
+A:What information will I need to provide to apply for unemployment ? &question
+B:Be prepared to provide your employer ¡¯ s name and address and what dates you worked . &inform
+A:What else will the Employment Development Office need ? &question
+B:You need to be prepared to show that your unemployment is not your fault . If you have a termination notice , that would be great . &inform
+A:What will happen next ? &question
+B:The Employment Development Office will call you for an interview . &inform
+#16
+
+#17
+A: Can I have a look at that digital camera please? &question
+B: Yes of course. This is a really good one actually. &inform
+A: How much does it cost? &question
+B: This one is 1500 yuan. &inform
+A: It looks pretty good. I think I'll take it. &commissive
+B: Would you like anything else? &question
+A: That's all thank you. &inform
+#18
+A:What do you think of that situation comedies showed every weekend ?&question
+B:To tell you the truth , I don't think much of them .&inform
+A:You're becoming a real television watcher .&directive
+B:A lot of people feel the same way .&inform
+#19
+A:When in Rome , do as the Romans do , they say . &inform
+B:What do the Romans do ? &question
+A:They live in Rome , of course , and go to work by car or bus . But sometimes it takes too long that way because of the traffic jams , so they walk . &inform
+B:In other words , the Romans do what everyone else does . &inform
+A:Yes , but they do it differently . Everything is different . &inform
+B:What do you mean ? &question
+A:Well , the climate's different for a start . It doesn't rain so much as it does in England . The sun shines more often . &inform
+B:I envy them the sun . &inform
+A:I know . You hate the rain , don't you ? &question
+B:I certainly do . &inform
+A:And a Roman really Ioves life . Eye knows how to enjoy himself . &inform
+B:They always eat spaghetti and drink wine , don't they ? &question
+A:Not always . But they like a good meal . Lots of tourists go to Rome just for the food , you know . &inform
+B:Really ? How much does it cost to fly to Rome ? &question
+A:I don't know exactly , but it costs a lot of money . &inform
+#20
+A: Can I help you? &question
+B: Yes, I'm doing some research on Roman civilization. Do you have any books on the subject? &question
+A: These books over here are about ancient history. They might be helpful. &inform
+B: Can I check this one out? &question
+A: I'm sorry. It's for reference only, so it must stay in the library. But you're welcome to look through it. &directive
+B: Ok. And I'd like to check these books out. &directive
+A: All right. They're due back next Wednesday. &commissive
+B: Thanks for your help. &inform
+#21
+
+
+A:What do you think of the plan for the new airport near here? &question
+B:Perhaps they should give it a second thought. The residents are getting up in arms about it. &inform
+A:I think they will. &commissive
+#22
+A: Let's go to the cinema by bus. &directive
+B: Better take the subway. It's far quicker and more convenient. &directive
+A: OK, it will be a new experience for me. &commissive
+B: We have a rather comprehensive subway system here. You can get almost anywhere rather quickly on a subway, especially at this time of day when the traffic is heavy. &inform
+A: Where do we pay the fare? &question
+B: Just give the man sitting there three yuan and he'll give you a ticket. &directive
+A: Do I have to pay an additional fare to change trains? &question
+B: No, you don't have to. Here comes the train. Be careful! Subway doors open and close automatically. &inform
+#23
+A: Informing of arrival and asking for permission to enter. &question
+B: Granting permission to enter but also indicating being busy. &inform
+A: Asking for permission to sit. &question
+B: Granting permission to sit and asking for the reason of the visit. &question
+A: Expressing the desire to leave the department and asking if a transfer is possible. &inform
+B: Confirming that a transfer is possible and asking for the reason for wanting to leave. &question
+A: Requesting to speak candidly. &directive
+B: Granting permission to speak candidly. &inform
+A: Stating the dislike for the office and staff and asking to put in for a transfer. &inform and directive
+B: Granting permission to put in for a transfer and expressing delight at the decision. &commissive
+#24
+A: Hi Bill , I saw your grandma yesterday .&inform
+B: Oh where was that ?&question
+A: I was running around the track at my college and there she was walking around the same track .&inform
+B: Grannie always tries to stay fit and healthy . She is always making us kids eat the proper foods .&inform
+A: Well , it pays off for her . How old is she anyway ?&question
+B: She will be 86 next month .&inform
+A: That is truly amazing !&inform
+#25
+
+#26
+A:&directive
+B:&inform
+A:&directive
+#27
+
+#28
+A: May I help you? &question
+B: I needed to ask you a question. &inform
+A: Ask away. &directive
+B: How many hours of the behind-the-wheel course do I need to take? &question
+A: Why do you need to take the course? &question
+B: I want to get my license. &inform
+A: You have to do six hours behind the wheel. &inform
+B: How many days do I need to finish the course? &question
+A: You can't finish in less than three days. &inform
+B: Is that all? &question
+A: There's nothing else to it. &inform
+B: That sounds easy enough. &inform
+#29
+
+#30
+A:Did you take my money from the table ?&question
+B:Absolutely not ! I'm not a thief .&commissive
+#31
+
+#32
+A:Room service, is there anything I can do for you? &inform
+B:Yes, I am afraid there are not enough outlets. &inform
+A:Well, we have 6 for each room. &inform
+B:Yes, but 4 of them are broken. Can you send someone here? &directive
+A:OK sir, please wait a minute. &commissive
+#33
+A:Hello , can I speak to Mark Wyatt , please ? &directive
+B:I am sorry . I can¡¯t hear your very clearly. Could you say that again, please? &directive
+A:Does Mark Wyatt work there? &question
+B:Mark Wyatt? I am sorry. The line is terrible. Could you spell that for me, please? &directive
+A:W-Y-A-T-T, Mark Wyatt. &inform
+B:W-Y-A-T-T, Got it. I haven¡¯t heard of the name. Could you hold on the line when I check. &directive
+A:No problem. &commissive
+#34
+
+#35
+A: My son is always complaining that I dump on him. He was very rude and told me to mind my own business. I cannot put up with that. &inform
+B: What does his dad say? &question
+A: John is a peacemaker. He simply doesn¡¯t bother. He says he should give him a free hand. &inform
+#36
+A: Did you see the 2005 Grammy Awards on TV last night? &question
+B: Yeah. I was so happy because my favorite singer, Ricky Martin won 'Best Latin Pop Performance'. &inform
+A: He seems to win awards everywhere. &inform
+B: He is really great. He has sold millions of records worldwide. He is especially known for his rocking performance at the football World Cup song-the Cup of World. &inform
+A: I heard one observer even said 'It was a song sung in Spanish for international football, and he made it so popular that even the Americans loved it.' &inform
+B: That's right. His voice ranges from the smooth sound of ballads to the high-powered rhythms of the Spanish Caribbean where he grew up. He has fan clubs across the world, from America to Russia, from England to Taiwan, from Norway to Australia. &inform
+#37
+A: Oh, Mary, come in, please. I'm so happy to see you. &directive
+B: Happy birthday, George. Many happy returns of the day. Here's a present for you. &commissive
+A: Oh, thank you, Mary. You're so nice. &inform
+B: I hope you like it. Oh, have the other guys arrived? &question
+A: They're all waiting for you. Let's join them. I'm going to cut the cake soon. &directive
+B: Let's go. &directive
+#38
+A: Informing about a person's relationship issue. &inform
+B: Agreeing and acknowledging the issue. &inform
+A: Expressing sympathy for John's situation. &commissive
+B: Agreeing with A and suggesting the difficulty of the situation. &inform
+#39
+
+
+A:&Question&- "Were you around when the robbery happened?"
+B:&Inform&- "Yes, I was."
+A:&Question&- "Could you explain what you saw?"
+B:&Inform&- "I was in the bank at the time of the robbery."
+A:&Question&- "What did you see?"
+B:&Inform&- "I saw a man come in with a gun."
+A:&Question&- "Did you see his face?"
+B:&Inform&- "No. He had a mask on."
+A:&Question&- "Did he come in with anyone else?"
+B:&Inform&- "He was by himself."
+A:&Directive&- "Would you come down to the station for further questioning?"
+B:&Commissive&- "That shouldn't be a problem."
+#40
+A:Your ring is very beautiful. &compliment
+B:Thank you. It has been handed down in my family for three generations. &inform
+A:Oh, it is precious. &comment
+B:It surely is. &agreement
+#41
+
+
+A:Can I help you? &question
+B:Yes, do you have any rooms available? &question
+A: A single? &question
+B:No. I need a double and three triples. My family is waiting for me in the car. &inform
+A:Please fill out this form, sir. &directive
+B:Ok ... Here you are. &commissive
+A:Here are your keys. Check out time is noon. &inform
+B:Is breakfast included? &question
+A:No. &inform
+#42
+A: &Question& - "Whose part do you think is best played?"
+B: &Inform& - "That of the old man."
+A: &Inform& - "You're absolutely right! That's the very figure I like best."
+B: &Inform& - "Some of the scenes moved me into tears."
+#43
+
+#44
+A: &inform
+B: &question
+A: &inform
+B: &inform
+A: &inform
+#45
+
+#46
+A: Hello, this is Lucy. May I speak to Mr. Smith? &directive
+B: Oh, hello, Lucy. What's up? &question
+A: I'm afraid I can't come to work today, Mr. Smith. &inform
+B: Oh, what's wrong with you? &question
+A: I've got a fever and a very sore throat. &inform
+B: Well, you sound ill over the phone. &inform
+A: Yes. I have to stay in bed today, but I'll be able to come tomorrow. &inform
+B: That's all right. Have a good rest until you feel well enough. &directive
+A: Thank you, Mr. Smith. Goodbye. &inform
+B: Goodbye, Lucy. &inform
+#47
+A:Hello . I'm answering the ad in the paper about your car. And I wonder if it is still available ? &question
+B:Yes , it's still available . &inform
+A:Good.Can you give me some information about it ... uh .. mileage and the tires and things like that ? &question
+B:Well , it has got low mileage.The tires are in perfect condition and it's in excellent shape . &inform
+#48
+
+#49
+
+#50
+
+
+A:Would you find any other available flight to Tokyo? &question
+B:Sure. We try our best. &commissive
+A:Thank you. &inform
+B:Mr. Chen, are you sure you're taking BA - 007 back to Tokyo? &question
+A:Yes, of course. I think our travel agent would have made the reservation for us. &inform
+B:I'm afraid this flight is all booked up. &inform
+A:Are you sure? We can't really take it? I reconfirmed with Miss Peterson the other day. &question
+B:I'm afraid so except we have many no-show passengers. &inform
+#51
+A: Hi , what can I get for you ? &question
+B: Hello , may I have a double cheeseburger ? &request
+A: With everything on it ? &question
+B: That sounds great . &commissive
+A: Did you want fries with your order ? &question
+B: May I get a large order of curly fries ? &request
+A: Did you want something to drink ? &question
+B: Get me a medium Pepsi . &request
+A: Would you like anything else ? &question
+B: No , thank you . That's it . &inform
+A: No problem , that'll be $ 5.48 . &inform
+B: Thanks a lot . Keep the change . &commissive
+#52
+A: May I bring you a salad? &question
+B: Oh, yes. What do you recommend today? &question
+A: Rose-petal salad. &inform
+B: OK, I'll have it for change. &commissive
+#53
+A: Don't worry, your baby is in my home. &inform
+B: How can I ever thank you? I owe you a big favor. &commissive
+#54
+A: &Commisive& - "I'll be on business for a couple of days, could you take care of your sister?"
+B: &Inform& - "OK, Mum, when will you be back?"
+A: &Inform& - "I'll be back in ten days."
+#55
+
+
+A: Mary, how was your date with John? &question
+B: It¡¯s OK. It seems we have a lot in common. &inform
+A: Oh, really? That is great news. What does he look like? &question
+B: He is tall and slim, fair-haired. &inform
+A: Sounds like he is pretty cute. What do you think of him? &question
+B: He is a nice guy and very considerate. I am impressed with how smart and humorous. &inform
+A: Oh, it¡¯s love at first sight. &directive
+#56
+A:Do you like chocolates ?&question
+B:It depends .&inform
+A:Do you like coffee ?&question
+B:Um . It ¡¯ s delicious .&inform
+A:And do you like English food ?&question
+B:Not all of it .&inform
+#57
+A:Here we are, Ryan! This is where we're going to celebrate! &inform
+B:It's a TV palace! I'm glad I brought my platinum card. &inform
+A:You won't need it. Tom is going to treat everybody! &inform
+B:Where is Tom? It was his idea to have the bachelor party at a TV palace, wasn't it? &question
+A:If it were up to Tom, we'd have the wedding in the TV palace? He loves to sing. &inform
+B:Then I bet he's really good! &inform
+A:Well, uh, I'll let you decide that for yourself. He'll be here a little later. Here's our room. &inform
+B:This is where we sing? These booths are so comfortable I think I could fall asleep! &inform
+A:Let's order something to eat. What are you in the mood for? &question
+B:It's up to you. &directive
+A:OK. How about some spring rolls and squid balls, some pork skins, and some beer! &inform
+#58
+A:Hi , Mary . I haven't seen you in ages ! I heard that you and Daniel are getting married on August 8th , the opening day of the 2008 Olympic Games . Is it true ? &question
+B:Yes , it is . We've been dating for over 7 years . We have decided to get married on a special day and we think August 8th , 2008 is a red-letter day . &inform
+A:Good for you ! It sounds like you've done a lot of planning in a very short time . &inform
+B:Yes , there is a lot of to be taken care of---wedding photos , wedding dress , catering , transport , hotel , etc ... &inform
+A:Is everything ready now ? &question
+B:Almost . The only thing that isn't ready is the hotel . As a lot of people have chosen that day to get married , it is hard to find a hotel that isn't too expensive . &inform
+A:Have you tried The Peninsula Palace Beijing ? My wedding reception was held there and they did an excellent job . &question
+B:Yes , we called , but it is booked up . The only choice is the Regent Beijing but we haven't made up our minds yet . &inform
+A:It's an excellent hotel . A friend of mine had her wedding reception there and said it was perfect , though very expensive . &inform
+B:That's why we want to have a look at other hotels . We don¡¯t want to spend too much on an extravagant wedding reception . &inform
+A:I guess you're right . I can help you ask other hotels . I am sure there are probably some available . &directive
+B:Thank you . &inform
+A:My pleasure . &commissive
+#59
+A:What are you and Corey doing for Valentine¡¯s Day this Friday? &question
+B:Probably nothing. &inform
+A:You have to do something romantic. &directive
+B:Romantic? I can¡¯t remember what that word means. &inform
+A:Well, you have three kids, so you knew what it meant once upon a time! &inform
+B:Ha, ha! Those days are long gone. &inform
+#60
+
+
+A:Thank you for agreeing to come in and meet with us today. &inform
+B:Thank you for inviting me. &inform
+A: I can see from your resume you were in charge of sales for Corporate World Unlimited from 1997 to 1999. Can you please tell me about your responsibilities? &question
+B: Yes. I was in charge of profit and loss for the northwest region of Canada. As a manager, I was directly responsible for a 50% increase in sales over a four-month period. &inform
+A: What, do you believe, are some of the key attributes that helped you to achieve such an outstanding increase in sales? &question
+B: I believe persistence and perseverance are key attributes. &inform
+#61
+
+#62
+
+
+A: Is this the class to prepare for interviews? &question
+B: This is the right place. Please join us. &directive
+A: I have an interview tomorrow, so I hope I can learn everything quickly. &inform
+B: We are all going to have great interviews. What are some things that we need to remember in an interview? &question
+A: I think that we should make sure that our looks are the best they can be. &inform
+B: Right, and what about our friendliness and attitude? &question
+A: Yes, and being friendly and having a good attitude also help me relax. &inform
+B: Did you know that they pay as much attention to what you ask as to what you say in an interview? &inform
+A: No, I didn't. What else should I keep in mind? &question
+B: Just relax, listen carefully to the questions, and be honest in your responses. &directive
+#63
+A:What are your plans for the future if you are hired ? &question
+B:I'll do my utmost if I am hired . &commissive
+A:Do you have any short-term goals ? &question
+B:No , that thought doesn't cross my mind . &inform
+#64
+A: How may I help you ? &question
+B: I want to get a passport . &inform
+A: You need to apply for a passport . &inform
+B: When can I apply for it ? &question
+A: You can apply right now . &inform
+B: I ¡¯ d like to do that . &commissive
+A: Fill this out , please . &directive
+B: What ¡¯ s next ? &question
+A: I will need to take your passport picture . &inform
+B: When will my passport be ready ? &question
+A: It will take about three weeks . &inform
+B: That ¡¯ s great . Thank you . &inform

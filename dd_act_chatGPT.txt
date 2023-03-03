@@ -1,0 +1,39 @@
+#1
+A: &inform
+Hi, Mary, it's been a long time.
+
+B: &inform
+Hello, my old friend. Long time no see. How are you doing?
+
+A: &inform
+Well, I'm doing okay. And how about yourself?
+
+B: &inform
+Not so well. To be honest with you, I broke up with Tom.
+
+A: &question
+Oh, I'm sorry to hear that. What happened?
+#2
+
+
+A:When can we expect you for dinner? Can you come tonight? &question
+B:Not tonight. I promised to go to a concert with my sister. &inform
+A:Well... How about Friday then? &question
+B:That sounds fine. &commissive
+A:Good. Shall we say seven o'clock? &question
+B:I'll be there. You're still a fabulous cook, aren't you? &commissive
+A:That'll be for you to decide. I've got a new dish that I want to try out on you. &inform
+B:I'm ready. I'll look forward to it all Friday! &commissive
+#3
+A: Invite to spend the weekend together. &question
+B: Decline the invitation and give a reason. &inform
+A: Express disappointment. &inform
+B: Suggest the possibility of doing it in the future. &commissive
+#4
+A: &question
+B: &inform
+A: &inform
+B: &question
+A: &inform
+B: &directive
+A: &commissive

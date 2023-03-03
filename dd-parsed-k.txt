@@ -1,0 +1,558 @@
+#1
+A:Hi , Mary , it ’ s been a long time
+B:Hello , my old friend . Long time no see . How are you doing ?
+A:Well , I ’ m doing okay . And how about yourself ?
+B:Not so well . To be honest with you , I broke up with Tom .
+A:Oh . I ’ m sorry to hear that . What happened ?
+#2
+A:When can we expect you for dinner ? Can you come tonight ?
+B:Not tonight . I promised to go to a concert with my sister .
+A:Well ... How about Friday then ?
+B:That sounds fine .
+A:Good . Shall we say seven o'clock ?
+B:I'll be there . You're still a fabulous cook , aren't you ?
+A:That'll be for you to decide . I've got a new dish that I want to try out on you .
+B:I'm ready . I'll look forward to it all Friday !
+#3
+A:Would you come to spend the weekend with us ?
+B:Oh , I ’ m afraid I can ’ t . I ’ Ve had a date already .
+A:That ’ s too bad .
+B:May be some other time .
+#4
+A:Excuse me , I'm looking for your casual short-sleeved shirts . Can you tell me where those are ?
+B:Right over here , sir . What-size do you wear ?
+A:Medium .
+B:These here are all mediums .
+A:Thank you . I think I'll take this one , and these pants as well . They're presents for a friend .
+B:Shall I gift-wrap them for you , sir ?
+A:Yes , please .
+#5
+A:I work so hard that I do not have the energy to exercise .
+B:That is just an excuse.You can always find some time to exercise .
+A:But I work hard all the time for long hours . Often I have no time for lunch . Yet , I am still getting fatter .
+B:Bill , you know that work is not the same as exercise as it is stressful but not relaxing.And skipping meals will not help you lose weight.In fact your body will only store fat if you miss meals .
+A:I know you're right , but what can I do ?
+B:How about going for a walk instead of sitting on the sofa reading the newspaper after dinner every night ?
+A:But I'll miss the news.It ' s important in my business to keep up with events in China .
+B:I know , I know.Have you got a portable radio ? You can listen to the news and get healthy at the same time .
+A:That's a good idea !
+#6
+A:A friend of mine has been taking an online career planning course these days . He told me the other day he has learned a lot from it . He recommended me to subscribe to it . What do you say ?
+B:I think it is good if we know enough about career planning . We will make wiser choices . What else did he tell you about it ?
+A:Well , just something in general , like several key steps in planning career and how to set specific and tenable goals .
+B:Sounds practical ! To be honest , sometimes I feel puzzled about my future career . I am not sure if this job suits me the best though I work very hard on it and enjoy being a hard worker . I have always wanted to try something else and learn some new skills .
+A:Making a decision to start over is not an easy thing to do . It seems that you need this course more than I do . I love my current job . If I take this course , I hope to learn some tricks to get myself more organized at work . If they can give suggestions about how to boost work relationships , that will be great . I need these to improve my current work performance .
+B:Ok , then we can sign up for it together .
+#7
+A:Hello , can I speak to Mark Wyatt , please ?
+B:I am sorry . I can ’ t hear your very clearly . Could you say that again , please ?
+A:Does Mark Wyatt work there ?
+B:Mark Wyatt ? I am sorry . The line is terrible.Could you spell that for me , please ?
+A:W-Y-A-T-T , Mark Wyatt .
+B:W-Y-A-T-T , Got it . I haven ’ t heard of the name.Could you hold on the line when I check .
+A:No problem .
+#8
+A:Donna ! How are you ? It's good to hear your voice .
+B:Thank you . Jack , it's always a pleasure doing business with you .
+A:So how are things in the land of the free and the home of brave ?
+B:Great ! And , how are things in your neck of the woods ?
+A:Things are so great here . I almost smiled myself to death last week . One of my coworkers had to give me CPR .
+B:Oh.Jack , I have missed your sense of humor.Ha ha ha ! Nobody else sees things quite like you do.It ' s your gift .
+A:Or a curse .
+B:Nope , it's a gift.Anyway , we need some more of those mid-range speakers you tricked me into buying last time .
+A:That , my dear , was classic sales technique delivered by a professional .
+B:Are you still gouging your customers the same price per unit ?
+A:Heck no , we doubled the price , but because it's you , I'll let you have'em at 50 off .
+B:You silver-tongued devil . Can't you ever just answer a question with a simple yes or no ?
+A:I could , but where's the fun in that ?
+#9
+A:Do you have any questions ?
+B:Yes , do I have to work a whole year before I can take a vacation ?
+A:Yes , after you ’ Ve been here a year , you qualify for a three-day vacation
+B:Only three days ?
+A:That's the company policy .
+B:What happens if I use up my sick days before the end of the year ? If I ’ m sick an extra day or two , will my pay be deducted ?
+A:Yes . That's the company policy .
+B:It was the same as the last place I worked at . I was hoping you ’ d be different .
+#10
+A:I ’ Ve just looked over your resume and I must admit I am quite impressed .
+B:Thank you . I ’ Ve worked pretty hard to be able to list those accomplishments .
+A:You ’ Ve got plenty of training and experience . I wonder if you could tell me something about your goals . Where do you see yourself ten years from now ?
+B:To be honest , I don ’ t plan in that much detail . My goals tend to be general ; I define success according to the job at hand . I see myself advancing as I succeed , but I don ’ t necessarily dwell on
+A:interesting ! And how do you feel about decision-making ? Are you an independent thinker , or do you depend more on your superior for direction ?
+B:That depends a bit on the problem at hand . There are certain situations in which a manager can give a general directive , and expect his employees to know how to take the initiative on the detail
+A:Sounds good . Everyone is taking about teams these days . Can you describe your role as a member of a sales team ?
+B:I see myself as an encourager . Of course , sales can be quite competitive and sometimes people in this field have a secret desire for others to fail . In my last job , each representative handled
+A:So , your experience is as impressive in practice as it is on paper .
+#11
+A:Anything else , sir ?
+B:That's all for now . How much do I owe you ?
+A:That'll be fifty-five dollars and twenty cents .
+B:Can't you make it a little cheaper ?
+A:Oh , no , sir . We already gave you a discount on each item .
+B:OK . I understand . Thank you .
+#12
+A:Let's have some lunch ; do you know of a great restaurant somewhere ?
+B:Yes , I'm hungry . What types of food sound good ?
+A:Maybe just a quick sandwich , salad , or something .
+B:I have a great idea of where you might like to go .
+A:Can we walk there ?
+B:It's on the second floor . May I join you ?
+A:Of course ! Let's go .
+B:Let's hurry . I'm starving !
+#13
+A:What stresses you out the most ?
+B:Probably my parents .
+A:How so ?
+B:Well , during school , they wanted good grades . Then after I got a job , they wanted me to get a better job . And finally , they want me to get married .
+A:You have to deal with a lot of pressure from your parents .
+B:Your parents are not like that ?
+A:Ever since I brought home some bad grades in elementary school , they never expected much .
+B:You're lucky .
+A:What do you do to deal with the stress ?
+B:Not much I can do . It's always there . I sometimes go out with some friends and drink , but that's only a temporary solution . The stress always returns in the morning .
+A:That sucks . You wanna go grab a beer ?
+B:Sure . Sounds great . Let's go .
+#14
+A:You don ’ t look so good .
+B:I have a major stomachache
+A:Did you eat something strange ?
+B:I had spaghetti with clam sauce for lunch .
+A:Maybe you have food poisoning .
+B:Yes , that could have been it , but I haven ’ t been feeling that great for the past few days .
+A:Are you under a lot of stress ?
+B:Not really . Things have been going OK .
+A:Maybe you have a touch of the flu .
+B:I think that I might be getting the flu .
+#15
+A:What forms should I fill out to collect unemployment ?
+B:You need to fill out a special form to apply for unemployment benefits .
+A:Where do I get the application form for unemployment benefits ?
+B:You can call the Employment Development Office and request a form .
+A:What information will I need to provide to apply for unemployment ?
+B:Be prepared to provide your employer ’ s name and address and what dates you worked .
+A:What else will the Employment Development Office need ?
+B:You need to be prepared to show that your unemployment is not your fault . If you have a termination notice , that would be great .
+A:What will happen next ?
+B:The Employment Development Office will call you for an interview .
+#16
+A:I wonder if it is possible that we organize a dinner party for all the colleagues in our departments . They are working very hard these days . Maybe it is time for everybody to relax a little .
+B:That is a good idea , I love it . What time do you think is convenient ?
+A:Well , what about this Thursday evening after we finish the weekly meeting ?
+B:Ok , I will inform everybody when they come back from lunch . It has been a long time since we had the department dinner last time . I am sure they don ’ t want to miss it .
+A:I hope so . Let me know how many will come . Then I will book the restaurant .
+#17
+A:Can I have a look at that digital camera please ?
+B:Yes of course . This is a really good one actually .
+A:How much does it cost ?
+B:This one is 1500 yuan .
+A:It looks pretty good . I think I'll take it .
+B:Would you like anything else ?
+A:That's all thank you .
+#18
+A:What do you think of that situation comedies showed every weekend ?
+B:To tell you the truth , I don't think much of them .
+A:You're becoming a real television watcher .
+B:A lot of people feel the same way .
+#19
+A:When in Rome , do as the Romans do , they say .
+B:What do the Romans do ?
+A:They live in Rome , of course , and go to work by car or bus . But sometimes it takes too long that way because of the traffic jams , so they walk .
+B:In other words , the Romans do what everyone else does .
+A:Yes , but they do it differently . Everything is different .
+B:What do you mean ?
+A:Well , the climate's different for a start . It doesn't rain so much as it does in England . The sun shines more often .
+B:I envy them the sun .
+A:I know . You hate the rain , don't you ?
+B:I certainly do .
+A:And a Roman really Ioves life . Eye knows how to enjoy himself .
+B:They always eat spaghetti and drink wine , don't they ?
+A:Not always . But they like a good meal . Lots of tourists go to Rome just for the food , you know .
+B:Really ? How much does it cost to fly to Rome ?
+A:I don't know exactly , but it costs a lot of money .
+#20
+A:Can I help you ?
+B:Yes , I ’ m doing some research on Roman civilization . Do you have any books on the subject ?
+A:These books over here are about ancient history . They might be helpful .
+B:Can I check this one out ?
+A:I ’ m sorry . It ’ s for reference only , so it must stay in the library . But you ’ re welcome to look through it .
+B:Ok . And I ’ d like to check these books out .
+A:All right . They ’ re due back next Wednesday .
+B:Thanks for your help .
+#21
+A:What do you think of the plan for the new airport near here ?
+B:Perhaps they should give it a second thought . The residents are getting up in arms about it .
+A:I think they will .
+#22
+A:Let's go to the cinema by bus .
+B:Better take the subway . It's far quicker and more convenient .
+A:OK , it will be a new experience for me .
+B:We have a rather comprehensive subway system here . You can get almost anywhere rather quickly on a subway , especially at this time of day when the traffic is heavy .
+A:Where do we pay the fare ?
+B:Just give the man sitting there three yuan and he'll give you a ticket .
+A:Do I have to pay an additional fare to change trains ?
+B:No , you don't have to . Here comes the train . Be careful ! Subway doors open and close automatically .
+#23
+A:Is it all right for me to come in now . Mr . Sutcliffe ?
+B:Well ... I'm pretty busy . but ... all right . come in . What can I do for you ?
+A:Do you mind if I sit down ?
+B:Not at all . Take a seat . Now , what can I do for you ?
+A:I want to leave the department . Do you think I could put in for a transfer ?
+B:Yes , but why should you want to do that ?
+A:Do you mind if I speak frankly ?
+B:Not at all . Go ahead .
+A:Well , you see . I don't like the office . I don't like the staff and I'm afraid you and I don't get on . So may I put in for a transfer ?
+B:Yes . I'd delighted if you did .
+#24
+A:Hi Bill , I saw your grandma yesterday .
+B:Oh where was that ?
+A:I was running around the track at my college and there she was walking around the same track .
+B:Grannie always tries to stay fit and healthy . She is always making us kids eat the proper foods .
+A:Well , it pays off for her . How old is she anyway ?
+B:She will be 86 next month .
+A:That is truly amazing !
+#25
+A:have you moved into your new house yet , Michael ?
+B:we just moved in yesterday , actually .
+A:so , what do you think about the place ? Are you glad that you moved in ?
+B:it's great ! Unfortunately , we're going to spend a fortune doing everything up .
+A:how old is the house then ?
+B:it's about 200 years old . It has a lot of history !
+A:sounds fascinating . Where is your new house located ?
+B:it's just off of the ring road .
+A:do you have a big yard ?
+B:it's bigger than our last one . I've got flowers in the front , and fruits , vegetables and a fish pond in the back .
+A:is your house well-lit ?
+B:oh , yes . Our windows let plenty of natural light in . They've also got wonderful views of the park behind our house .
+A:how many rooms does your house have ?
+B:right now , there are three bedrooms , two barrooms , a kitchen , a sitting room , a dining room , and a living room . We're hoping to add on a green room and a guest bedroom . In fact , when the guest room i
+A:I'd be up for that !
+#26
+A:What a mess , Jack !
+B:I ’ m playing with my toys , Dad .
+A:You ’ d better tidy up the room now , or you ’ ll get your mum ’ s back up .
+#27
+A:Merry Christmas !
+B:Huh ?
+A:I said Merry Christmas ! Don't you know that Christmas is almost here ?
+B:It is ? Oh , that's nice .
+A:Huh ? Didn't you know ? Aren't you excited ?
+B:Actually , I'd forgotten about it .
+A:Forgotten about it ? How could you ?
+B:Because I'm not Christian , I'm Jewish .
+A:Oh , I'm sorry . I didn't know .
+B:It's all right . There are so many Christians in America that everybody takes it for granted that I'm Christian .
+A:I guess so . So what do you do around this time of year ?
+B:Well , I'll celebrate Hanukah soon , but that's not as important to us as Christmas is to you . Mainly I'll just enjoy the holiday break .
+A:Well , would you be horribly offended if I invited you to a Christmas party at my house ?
+B:Not at all . A party is a party . I'll be happy to come .
+#28
+A:May I help you ?
+B:I needed to ask you a question .
+A:Ask away .
+B:How many hours of the behind-the-wheel course do I need to take ?
+A:Why do you need to take the course ?
+B:I want to get my license .
+A:You have to do six hours behind the wheel .
+B:How many days do I need to finish the course ?
+A:You can't finish in less than three days .
+B:Is that all ?
+A:There's nothing else to it .
+B:That sounds easy enough .
+#29
+A:Nice to meet you here.How come you dropped into this company today ?
+B:My boss sent me here to take some business documents back to his office . I didn't know you were working here.What a surprise.How long have you been doing this ?
+A:Two years or so .
+B:That is great.Do you have to work the night shift ?
+A:No , in most cases I don't have to unless there is something urgent to deal with . I work five days a week .
+B:Do you enjoy work here ?
+A:It is hard to say.But I've to start by working as a trainee before I really become an experienced marketing assistant.Sometimes , I am really under great pressure when it gets busy .
+B:Take it easy . I'm sure you will gain enough experience while working as a marketing assistant . I hope you haven't been given much trouble in the job .
+A:Luckily not.The silent I meet are generally very friendly and have a good boss .
+B:Glad to hear that .
+#30
+A:Did you take my money from the table ?
+B:Absolutely not ! I'm not a thief .
+#31
+A:John , do you have a minute ?
+B:Oh , hi , Leo . Sure , what ’ s up ?
+A:Well , I ’ Ve been meaning to talk to you about the situation in the office .
+B:But I ’ m not in there very often . It ’ s so noisy that I can ’ t work .
+A:That ’ s exactly what I ’ m getting at . We ’ re supposed to be able to do our preparation and marking in that office , but have you noticed ? Jack constantly has students coming in to get help with his course . A lot people are going in and out .
+B:Has anybody spoken to him about it ?
+A:No , not yet , but someone ’ s going to have to .
+B:We really can ’ t ask him to stop having students come in for help , can we ?
+A:No , of course not . But I ’ m not able to do my work and neither are you .
+B:How about recommending him to use the storage room down the hall ?
+A:Oh , that would be too small .
+B:With the cabinets taken out , it might be bigger than it looks .
+A:Come to think of it , you may be on to something . Let ’ s go have a look .
+B:Let's rock n ' roll .
+#32
+A:Room service , is there anything I can do for you ?
+B:Yes , I am afraid there are not enough outlets .
+A:Well , we have 6 for each room .
+B:Yes , but 4 of them are broken . Can you send someone here ?
+A:OK sir , please wait a minute .
+#33
+A:Hello , can I speak to Mark Wyatt , please ?
+B:I am sorry . I can ’ t hear your very clearly . Could you say that again , please ?
+A:Does Mark Wyatt work there ?
+B:Mark Wyatt ? I am sorry . The line is terrible.Could you spell that for me , please ?
+A:W-Y-A-T-T , Mark Wyatt .
+B:W-Y-A-T-T , Got it . I haven ’ t heard of the name.Could you hold on the line when I check .
+A:No problem .
+#34
+A:It's time to graduate and it's time to find a job . Susan , why do we need to find a job ?
+B:We need to work is because we need money to live . We need money for food and clothes and to pay for our house . We need money for many different things , and only when we work , we can earn money . And work can also help us feel that we are useful .
+A:But you know it's hard for a new graduate to find a job right now .
+B:Yes , it is really hard . But you must believe that you will find a suitable job finally . When you work , you can accumulate a lot of experience . Besides , you need to learn a lot of things while you are working .
+A:I've been fed up with study .
+B:But whether you like it or not , there ’ s a trend of life-long study to make sure that we can keep ourselves up with the high developing society . And you need to accept this concept positively .
+A:Oh , my . Why there are still so many things to learn after graduation ?
+B:You have no choice , so you'd better adjust your thoughts to be ready to learn anything at any time .
+#35
+A:My son is alway complaining that I dump on him . He was very rude and told me to mind my own business . I cannot put up with that .
+B:What does his dad say ?
+A:John is a peacemaker . He simply doesn ’ t bother . He says he should give him a free hand .
+#36
+A:Did you see the 2005 Grammy Awards on TV last night .
+B:Yeah . I was so happy , because my favorite singer , Ricky Martin won ' Best Latin Pop Performance ' .
+A:He seems to win awards everywhere .
+B:He is really great . He has sold millions of records worldwide . He is especially known for his rocking performance at the football World Cup song-the Cup of World .
+A:I heard one observer even said ' It was a song sung in Spanish for international football , and he made it so popular that even the Americans loved it . '
+B:That's right . His voice ranges from the smooth sound of ballads to the highpowered rhythms of the Spanish Caribbean where he grew up . He has fan clubs across the world , from America to Russia , from England to Taiwan , from Norway to Australia .
+#37
+A:Oh , Mary , come in , please . I'm so happy to see you .
+B:Happy birthday , George . Many happy returns of the day . Here's a present for you .
+A:Oh , thank you , Mary . You're so nice .
+B:I hope you like it . Oh , have the other guys arrived ?
+A:They're all waiting for you . Let's join them . I'm going to cut the cake soon .
+B:Let's go .
+#38
+A:May doesn't get along very well with her mother-in-law .
+B:Yeah . That's just what is troubling John .
+A:Poor John ! He is bothering both sides of this bread .
+B:This situation isn't easy to handle .
+#39
+A:Were you around when the robbery happened ?
+B:Yes , I was .
+A:Could you explain what you saw ?
+B:I was in the bank at the time of the robbery .
+A:What did you see ?
+B:I saw a man come in with a gun .
+A:Did you see his face ?
+B:No . He had a mask on .
+A:Did he come in with anyone else ?
+B:He was by himself .
+A:Would you come down to the station for further questioning ?
+B:That shouldn't be a problem .
+#40
+A:Your ring is very beautiful .
+B:Thank you . It has been handed down in my family for three generations .
+A:Oh , it is precious .
+B:It surely is .
+#41
+A:Can I help you ?
+B:Yes , do you have any rooms available ?
+A:A single ?
+B:No . I need a double and three triples . My family is waiting for me in the car .
+A:Please fill out this form , sir .
+B:Ok ... Here you are .
+A:Here are your keys . Check out time is noon .
+B:Is breakfast included ?
+A:No .
+#42
+A:Whose part do you think is best played ?
+B:That of the old man .
+A:You're absolutely right ! That's the very figure I like best .
+B:Some of the scenes moved me into tears .
+#43
+A:What a lovely day . The sun is shinning and the sky is so blue . It's a perfect day to go to the beach and get a beautiful tan .
+B:Great idea . Unlike you , I just want to enjoy watching the sea and playing with the sand . I do not want to get a tan because I look good in pale skin .
+A:Come on . Getting a tan symbolizes health and wealth in western countries .
+B:While the pale color symbolizes beauty and elegance in most Asia countries .
+A:That is a really interesting fact .
+B:I will bring a big hat and apply a lot of sunscreen before setting off the beach .
+A:Just do whatever you feel like doing .
+B:( At the beach ) My bag is so heavy . Let's put the stuff under the tree .
+A:Good idea . It is always cooler in a shade .
+B:I can't wait to play in the water . My feet are burning when I stand on the sand .
+#44
+A:Today I want to invite you to talk about insurance you ’ re interested in .
+B:Thank you . I wonder whether I can enjoy the life insurance and health insurance .
+A:Of course . A two-week paid vacation a year , a five-day workweek .
+B:Good . Anything else ?
+A:Yes , all the insurance will be linked with your work . We will issue an insurance policy .
+#45
+A:When and where were you born ?
+B:I was born in Beijing in 1965 .
+A:You look so young .
+B:Really ? Thank you .
+#46
+A:Hello , this is Lucy . May I speak to Mr . Smith ?
+B:Oh , hello , Lucy . What's up ?
+A:I'm afraid I can't come to work today , Mr . Smith .
+B:Oh , what's wrong with you ?
+A:I've got a fever and a very sore throat .
+B:Well , you sound ill over the phone .
+A:Yes . I have to stay in bed today , but I'll be able to come tomorrow .
+B:That's all right . Have a good rest until you feel well enough .
+A:Thank you , Mr . Smith . Goodbye .
+B:Goodbye , Lucy .
+#47
+A:Hello . I'm answering the ad in the paper about your car.And I wonder if it is still available ?
+B:Yes , it's still available .
+A:Good.Can you give me some information about it ... uh .. mileage and the tires and things like that ?
+B:Well , it has got low mileage.The tires are in perfect condition and it's in excellent shape .
+#48
+A:I'm broke , and I have to catch another bus .
+B:Why don't you have any money for another bus ?
+A:I got hungry and bought some chips .
+B:That was smart .
+A:Anyway , do you have any change I can use for the bus ?
+B:I don't have any .
+A:I don't know how I'm going to get home .
+B:Get a transfer from the bus driver .
+A:How much is a transfer ?
+B:It doesn't cost anything .
+A:That's great ! Thanks for your help .
+B:You know what ? Don't mention it .
+#49
+A:Now tell me , what's your problem ?
+B:I don't feel like eating . And I cannot sleep well .
+A:Do you have a fever ?
+B:Yes , a low fever . I feel terrible . Am I dying ?
+A:Certainly not . Take one of these white pills three times a day .
+B:Before the meals or after the meals ?
+A:After the meals . And do not forget to take two sleeping pills before going to bed .
+#50
+A:Would you find any other available flight to Tokyo ?
+B:Sure . We try our best .
+A:Thank you .
+B:Mr.Chen , are you sure you're taking BA - 007 back to Tokyo ?
+A:Yes , of course . I think our travel agent would have made the reservation for us .
+B:I'm afraid this flight is all booked up .
+A:Are you sure ? We can't really take it ? I reconfirmed with Miss Peterson the other day .
+B:I'm afraid so except we have many no-show passengers .
+#51
+A:Hi , what can I get for you ?
+B:Hello , may I have a double cheeseburger ?
+A:With everything on it ?
+B:That sounds great .
+A:Did you want fries with your order ?
+B:May I get a large order of curly fries ?
+A:Did you want something to drink ?
+B:Get me a medium Pepsi .
+A:Would you like anything else ?
+B:No , thank you . That's it .
+A:No problem , that'll be $ 5.48 .
+B:Thanks a lot . Keep the change .
+#52
+A:May I bring you a salad ?
+B:Oh , yes.What do you recommend today ?
+A:Rose-petal salad .
+B:OK , I'll have it for change .
+#53
+A:Don't worry , your baby is in my home .
+B:How can I ever thank you ? I owe you a big favor .
+#54
+A:I'll be on business for a couple of days , could you take care of your sister ?
+B:OK , Mum , when will you be back ?
+A:I'll be back in ten days .
+#55
+A:Mary , how was your date with John ?
+B:It ’ s OK . It seems we have a lot in common .
+A:Oh , really ? That is great news . What does he look like ?
+B:He is tall and slim , fair-haired .
+A:Sounds like he is pretty cute . What do you think of him ?
+B:He is a nice guy and very considerate . I am impressed with how smart and humorous .
+A:Oh , it ’ s love at first sight .
+#56
+A:Do you like chocolates ?
+B:It depends .
+A:Do you like coffee ?
+B:Um . It ’ s delicious .
+A:And do you like English food ?
+B:Not all of it .
+#57
+A:Here we are , Ryan ! This is where we're going to celebrate !
+B:lt's a TV palace ! I'm glad I brought my platinum card .
+A:You won't need it . Tom is going to treat everybody !
+B:Where is Tom ? It was his idea to have the bachelor party at a ETV , wasn't it ?
+A:If it were up to Tom , we'd have the wedding in the ETV ? He loves to sing .
+B:Then I bet he's really good !
+A:Well , uh , I'll let you decided that for you yourself . He'll be here a little later . Here's our room .
+B:This is where we sing ? These booths are so comfortable I think could fall asleep !
+A:Let's order something to eat . What are you in the mood for ?
+B:It's up to you .
+A:OK . How about some spring rolls and squid balls , some pork skins , and some beer !
+#58
+A:Hi , Mary . I haven't seen you in ages ! I heard that you and Daniel are getting married on August 8th , the opening day of the 2008 Olympic Games . Is it true ?
+B:Yes , it is . We've been dating for over 7 years . We have decided to get married on a special day and we think August 8th , 2008 is a red-letter day .
+A:Good for you ! It sounds like you've done a lot of planning in a very short time .
+B:Yes , there is a lot of to be taken care of---wedding photos , wedding dress , catering , transport , hotel , etc ...
+A:Is everything ready now ?
+B:Almost . The only thing that isn't ready is the hotel . As a lot of people have chosen that day to get married , it is hard to find a hotel that isn't too expensive .
+A:Have you tried The Peninsula Palace Beijing ? My wedding reception was held there and they did an excellent job .
+B:Yes , we called , but it is booked up . The only choice is the Regent Beijing but we haven't made up our minds yet .
+A:It's an excellent hotel . A friend of mine had her wedding reception there and said it was perfect , though very expensive .
+B:That's why we want to have a look at other hotels . We don ’ t want to spend too much on an extravagant wedding reception .
+A:I guess you're right . I can help you ask other hotels . I am sure there are probably some available .
+B:Thank you .
+A:My pleasure .
+#59
+A:What are you and Corey doing for Valentine ’ s Day this Friday ?
+B:Probably nothing .
+A:You have to do something romantic .
+B:Romantic ? I can ’ t remember what that word means .
+A:Well , you have three kids , so you knew what it meant once upon a time !
+B:Ha , ha ! Those days are long gone .
+#60
+A:Thank you for agreeing to come in and meet with us today .
+B:Thank you for inviting me .
+A:I can see from your resume you were in charge of sales for Corporate World Unlimited from 1997 to 1999 . Can you please tell me about your responsibilities ?
+B:Yes . I was in charge of profit and loss for the northwest region of Canada . As a manager , I was directly responsible for a 50 % increase in sales over a four-month period .
+A:What , do you believe , are some of the key attributes that helped you to achieve such an outstanding increase in sales ?
+B:I believe persistence and perseverance are key attributes .
+#61
+A:So , are we all ready to go ?
+B:Yup , I think so . The car ’ s packed , we have munchies and music , and the map ’ s in the car .
+A:Did you get the camera ?
+B:Got it ! Did you fill up the tank ?
+A:Yup , it ’ s all set .
+B:You ’ re sure we ’ re not forgetting anything ?
+A:I ’ m sure ... we ’ Ve got all our bases covered .
+B:Well , let ’ s get going then ! I love road trips !
+A:Um ... do you think we can make a pit stop ?
+B:But we ’ Ve only been on the road for ten minutes .
+A:I know , but I forgot to go to the bathroom before we left .
+#62
+A:Is this the class to prepare for interviews ?
+B:This is the right place . Please join us .
+A:I have an interview tomorrow , so I hope I can learn everything quickly .
+B:We are all going to have great interviews . What are some things that we need to remember in an interview ?
+A:I think that we should make sure that our looks are the best they can be .
+B:Right , and what about our friendliness and attitude ?
+A:Yes , and being friendly and having a good attitude also help me relax .
+B:Did you know that they pay as much attention to what you ask as to what you say in an interview ?
+A:No , I didn ’ t . What else should I keep in mind ?
+B:Just relax , listen carefully to the questions , and be honest in your responses .
+#63
+A:What are your plans for the future if you are hired ?
+B:I'll do my utmost if I am hired .
+A:Do you have any short-term goals ?
+B:No , that thought doesn't cross my mind .
+#64
+A:How may I help you ?
+B:I want to get a passport .
+A:You need to apply for a passport .
+B:When can I apply for it ?
+A:You can apply right now .
+B:I ’ d like to do that .
+A:Fill this out , please .
+B:What ’ s next ?
+A:I will need to take your passport picture .
+B:When will my passport be ready ?
+A:It will take about three weeks .
+B:That ’ s great . Thank you .
