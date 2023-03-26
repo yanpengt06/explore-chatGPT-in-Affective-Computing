@@ -1,7 +1,7 @@
 # Explore ChatGPT in Affective Computing
 ## Introduction
-We want to test the capacity of ChatGPT on Affective Computing
-This repository contains the result of Dialogue Act Classification(DAC) for now
+We want to test the capacity of ChatGPT on Affective Computing.
+This repository contains the result of Dialogue Act Classification(DAC) for now and we will update more results in few weeks.
 ## Result for DAC
 
 | Model                                                        | Acc  | weighted-F1 |
